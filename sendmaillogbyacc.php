@@ -36,7 +36,7 @@
     <div class="form-group row m-4">
         <h2>個人簡訊寄送紀錄</h2>
 
-        <form action="sendmaillog.php" method="post">
+        <form action="sendmaillogbyacc.php" method="post">
             <div class="mb-1">
                 <label for="startDate">統計區間：</label>
             </div>
