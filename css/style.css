@@ -1,0 +1,20 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Noto Sans TC", sans-serif;
+}
+
+footer div p {
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.redText {
+  color: red;
+}
+
+.flexform {
+  display: flex;
+  flex-direction: column;
+}
